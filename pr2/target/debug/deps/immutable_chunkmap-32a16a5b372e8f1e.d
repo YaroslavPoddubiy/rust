@@ -1,0 +1,11 @@
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\libimmutable_chunkmap-32a16a5b372e8f1e.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\chunk.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\avl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\map.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\set.rs
+
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\libimmutable_chunkmap-32a16a5b372e8f1e.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\chunk.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\avl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\map.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\set.rs
+
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\immutable_chunkmap-32a16a5b372e8f1e.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\chunk.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\avl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\map.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\set.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\chunk.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\avl.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\map.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\immutable-chunkmap-2.0.5\src\set.rs:

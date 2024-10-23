@@ -1,0 +1,11 @@
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\libunicode_segmentation-532a81e24b3c43ff.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs
+
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\libunicode_segmentation-532a81e24b3c43ff.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs
+
+C:\Users\Home\OneDrive\Робочий стіл\кпі\4 курс\1 семестр\rust\rust\pr2\target\debug\deps\unicode_segmentation-532a81e24b3c43ff.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs:
