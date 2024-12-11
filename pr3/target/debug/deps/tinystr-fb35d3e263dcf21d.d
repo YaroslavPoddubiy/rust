@@ -1,0 +1,14 @@
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libtinystr-fb35d3e263dcf21d.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libtinystr-fb35d3e263dcf21d.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\tinystr-fb35d3e263dcf21d.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs:

@@ -1,0 +1,13 @@
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\liblibloading-c7894578df38d53f.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\liblibloading-c7894578df38d53f.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libloading-c7894578df38d53f.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\changelog.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\mod.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\os\windows\mod.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\util.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\error.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libloading-0.8.6\src\safe.rs:

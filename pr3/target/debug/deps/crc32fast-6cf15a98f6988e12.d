@@ -1,0 +1,12 @@
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libcrc32fast-6cf15a98f6988e12.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\baseline.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\combine.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\table.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libcrc32fast-6cf15a98f6988e12.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\baseline.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\combine.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\table.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\crc32fast-6cf15a98f6988e12.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\baseline.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\combine.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\mod.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\table.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\baseline.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\combine.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\mod.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\table.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\crc32fast-1.4.2\src\specialized\pclmulqdq.rs:

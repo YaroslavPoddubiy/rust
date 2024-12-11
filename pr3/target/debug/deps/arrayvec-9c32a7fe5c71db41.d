@@ -1,0 +1,13 @@
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libarrayvec-9c32a7fe5c71db41.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libarrayvec-9c32a7fe5c71db41.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\arrayvec-9c32a7fe5c71db41.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src/lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs:

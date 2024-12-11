@@ -1,0 +1,13 @@
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libbitflags-2afad3a44488d99b.rmeta: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\iter.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\parser.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\traits.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\public.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\internal.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\external.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\libbitflags-2afad3a44488d99b.rlib: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\iter.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\parser.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\traits.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\public.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\internal.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\external.rs
+
+D:\кпі\4 курс\1 семестр\rust\rust\pr3\target\debug\deps\bitflags-2afad3a44488d99b.d: D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\lib.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\iter.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\parser.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\traits.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\public.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\internal.rs D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\external.rs
+
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\lib.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\iter.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\parser.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\traits.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\public.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\internal.rs:
+D:\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.6.0\src\external.rs:
