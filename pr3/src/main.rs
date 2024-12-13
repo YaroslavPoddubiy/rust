@@ -108,7 +108,8 @@ impl MyApp {
                 if !self.new_task_title.trim().is_empty() {
                     self.user.add_task(Task::new(self.new_task_title.clone(),
                                                  self.new_task_deadline.clone(),
-                                                 false));
+                                                 false,
+                                                 self.user.login.clone()));
                     self.new_task_title.clear();
                     self.new_task_deadline.clear();
                 }

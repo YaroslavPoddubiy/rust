@@ -8,12 +8,13 @@ pub(crate) struct Task{
     id: i32,
     pub(crate) title: String,
     pub(crate) deadline: String,
-    pub(crate) done: bool
+    pub(crate) done: bool,
+    user_login: String
 }
 
 
 impl Task{
-    pub(crate) fn new(title: String, deadline: String, done: bool) -> Self{
+    pub(crate) fn new(title: String, deadline: String, done: bool, user_login: String) -> Self{
         let tasks_file = File::open("tasks.csv").unwrap();
         let mut reader = Reader::from_reader(tasks_file);
         let mut last_id = 0;
@@ -24,14 +25,15 @@ impl Task{
             id: last_id + 1,
             title: title,
             deadline: deadline,
-            done: done
+            done: done,
+            user_login: user_login
         }
     }
 }
 
 #[derive(Debug, Default)]
 pub(crate) struct User{
-    login: String,
+    pub(crate) login: String,
     password: String
 }
 
@@ -48,7 +50,8 @@ impl User{
                     id: task.get(0).unwrap().parse::<i32>().unwrap(),
                     title: task.get(1).unwrap().to_string(),
                     deadline: task.get(2).unwrap().to_string(),
-                    done: task.get(3).unwrap().parse::<bool>().unwrap()}
+                    done: task.get(3).unwrap().parse::<bool>().unwrap(),
+                    user_login: self.login.clone()}
                 );
             }
         }
@@ -79,7 +82,8 @@ impl User{
                     id: task.get(0).unwrap().parse::<i32>().unwrap(),
                     title: task.get(1).unwrap().to_string(),
                     deadline: task.get(2).unwrap().to_string(),
-                    done: task.get(3).unwrap().parse::<bool>().unwrap() }
+                    done: task.get(3).unwrap().parse::<bool>().unwrap(),
+                    user_login: task.get(4).unwrap().to_string()}
                 );
             }
         }
@@ -109,7 +113,8 @@ impl User{
                     id: task.get(0).unwrap().parse::<i32>().unwrap(),
                     title: task.get(1).unwrap().to_string(),
                     deadline: task.get(2).unwrap().to_string(),
-                    done: task.get(3).unwrap().parse::<bool>().unwrap() }
+                    done: task.get(3).unwrap().parse::<bool>().unwrap(),
+                    user_login: task.get(4).unwrap().to_string()}
                 );
             }
             else {
@@ -124,7 +129,7 @@ impl User{
                 task.title,
                 task.deadline,
                 task.done.to_string(),
-                self.login.clone()];
+                task.user_login.clone()];
             wrtr.write_record(&to_write).unwrap();
         }
         wrtr.flush().expect("Writing failed");
@@ -159,5 +164,10 @@ pub(crate) fn registration(login: String, password: String) -> Result<User, Stri
         }
     }
 
+    let file = OpenOptions::new().write(true).append(true).open("users.csv").unwrap();
+    let mut wrtr = Writer::from_writer(file);
+    let to_write = [login.clone(), password.clone()];
+    wrtr.write_record(&to_write).unwrap();
+    wrtr.flush().expect("Writing failed");
     return Ok(User{login, password});
 }
